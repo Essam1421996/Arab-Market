@@ -1,0 +1,57 @@
+body{
+    direction:rtl;
+}
+.select2-selection__rendered{
+    text-align: right;
+}
+.select2-selection__clear{
+    text-align: left;
+}
+.select2-search__field{
+    text-align: right;
+}
+.panel-body img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+.panel-body th,td{
+    text-align: center;
+}
+.panel-body input{
+    border:none;
+    text-align:center;
+}
+.panel-body select{
+    width: 120px;
+}
+.btn-lg{
+    border-radius:10px;
+}
+.actions{
+    width:120px;
+}
+.alert-block{
+    text-align: center;
+}
+.fail{
+    text-align:  center;
+    color: red;
+	 background-color:#debec8;
+}
+.close{
+    float:right;
+}
+.btn-md{
+	float: left;
+    width: 50px;
+    height: 24px;
+	padding:1px;
+    
+}
+.control{ 
+   font-size: 28px;
+}
+#product_edit{
+	margin-bottom: 4px;
+}
